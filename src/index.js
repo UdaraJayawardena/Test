@@ -7,7 +7,7 @@ import 'tachyons';
 // import Sample from './containers/Sample';
 
 
-ReactDOM.render(<h1>Udara</h1>,
+ReactDOM.render(<h1>Shehan</h1>,
     document.getElementById('root')
 );
 
