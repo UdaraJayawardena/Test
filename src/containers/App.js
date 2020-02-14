@@ -28,7 +28,8 @@ class App extends Component {
         })
 
 
-        return (<div className='tc'>
+        return (
+	<div className='tc'>
             <h1 className='f1'>RoboFriends</h1>
             <SearchBox searchChange={
                 this.onSearchChange

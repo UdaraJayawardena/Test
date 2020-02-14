@@ -2,12 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import App from './containers/App';
+//import App from './containers/App';
 import 'tachyons';
 // import Sample from './containers/Sample';
 
 
-ReactDOM.render(<App />,
+ReactDOM.render(<h1>Udara</h1>,
     document.getElementById('root')
 );
 
